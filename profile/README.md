@@ -9,7 +9,3 @@ Originally conceived and still operating as a micro family office, the entity al
     - A semantic indexing and hybrid search system built for AI interface
 - 🤖 [Claude Review Server](https://github.com/plasticbeachllc/claude-review-server)
     - A runbook automation for setting up subscription-backed automated Claude Code PR reviews
-
-## Contact
-
-Please reach out to [taylor@plasticbeach.email](mailto:taylor@plasticbeach.email).
