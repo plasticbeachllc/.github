@@ -1,6 +1,6 @@
 # 🏖️ Plastic Beach, LLC
 
-Plastic Beach, LLC is a one-man shop run by [Taylor Cathcart](https://linkedin.com/in/tcathcart). 
+Plastic Beach is a one-man shop run by [Taylor Cathcart](https://linkedin.com/in/tcathcart). 
 
 The entity develops and releases free open-source software (FOSS) under the MIT license.
 
