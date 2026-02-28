@@ -2,7 +2,7 @@
 
 Plastic Beach, LLC is a one-man shop run by [Taylor Cathcart](https://linkedin.com/in/tcathcart). 
 
-Originally conceived and still operating as a micro family office, the entity also develops and releases free open-source software (FOSS) under the MIT license.
+The entity develops and releases free open-source software (FOSS) under the MIT license.
 
 ## FOSS Projects
 - 🐬 [Dolphin](https://github.com/plasticbeachllc/dolphin)
