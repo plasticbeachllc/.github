@@ -1,8 +1,6 @@
 # 🏖️ Plastic Beach, LLC
 
-Plastic Beach is a one-man shop run by [Taylor Cathcart](https://linkedin.com/in/tcathcart). 
-
-The entity develops and releases free open-source software (FOSS) under the MIT license.
+Plastic Beach develops and releases free open-source software (FOSS) under the MIT license.
 
 ## Projects
 - 🤖 [Claude Review Server](https://github.com/plasticbeachllc/claude-review-server)
